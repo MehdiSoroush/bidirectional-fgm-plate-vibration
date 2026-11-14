@@ -1,0 +1,8 @@
+alpha,beta,mesh_n,bending_mode_number,frequency_hz,single_sine_mac,shape_residual_pct,peak_x_m,peak_y_m,source_type
+0,0,40,2,576.98,0.99998717,0.358,0.40,0.40,recorded_abaqus2021
+0.5,0.5,40,2,458.42,0.99249795,8.661,0.38,0.38,recorded_abaqus2021
+1,1,40,2,391.20,0.98689444,11.448,0.36,0.36,recorded_abaqus2021
+2,2,40,2,337.07,0.99096797,9.504,0.36,0.36,recorded_abaqus2021
+3,3,40,2,318.74,0.99534233,6.825,0.38,0.38,recorded_abaqus2021
+5,5,40,2,305.98,0.99852759,3.837,0.40,0.38,recorded_abaqus2021
+10,10,40,2,297.89,0.99978141,1.478,0.40,0.40,recorded_abaqus2021

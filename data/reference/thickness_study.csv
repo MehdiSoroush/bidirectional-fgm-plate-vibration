@@ -1,0 +1,4 @@
+thickness_m,ritz_cpt_hz,abaqus_s4r_hz,bending_mode_number,mesh_n,source_type
+0.04,594.1807407444,576.98,2,40,recorded_abaqus2021
+0.02,297.0903703722,293.64,1,40,recorded_abaqus2021
+0.01,148.5451851861,147.94,1,40,recorded_abaqus2021

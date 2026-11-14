@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Citation metadata for the graded-plate vibration software and benchmark datasets."
+type: software
+authors:
+  - family-names: Soroush
+    given-names: Mehdi
+title: "Vibration of Bidirectionally Functionally Graded Plates: Analytical and Computational Models"
+version: 0.1.0
+date-released: 2026-11-13
+abstract: "Analytical and computational investigation of bidirectionally graded-plate vibration, with reproducible Ritz and Abaqus linear benchmarks, nonlinear reduced-order models, and numerical verification. Research 2018–2020; computational development 2026."

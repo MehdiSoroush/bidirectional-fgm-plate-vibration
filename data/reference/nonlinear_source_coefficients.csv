@@ -1,0 +1,7 @@
+case,slenderness,aspect_ratio,alpha,beta,source_P,source_Q,source_location
+s00,20,1,0,0,1.38808e7,1.14191e10,time_response_numerical.nb
+s10,20,1,1,0,9.60979e6,7.90555e9,time_response_numerical.nb
+s11,20,1,1,1,6.88208e6,5.66158e9,time_response_numerical.nb
+s201,20,1,0.5,0.5,9.04429e6,7.44034e9,time_response_numerical.nb
+s151,15,1,0.5,0.5,2.84936e7,2.34405e10,time_response_numerical.nb
+s2015,20,1.5,0.5,0.5,4.72292e6,4.26359e9,time_response_numerical.nb

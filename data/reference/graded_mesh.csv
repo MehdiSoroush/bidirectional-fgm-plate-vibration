@@ -1,0 +1,5 @@
+alpha,beta,mesh_n,frequency_hz,source_type
+1,1,40,391.20,recorded_abaqus2021
+1,1,80,390.86,recorded_abaqus2021
+5,5,40,305.98,recorded_abaqus2021
+5,5,80,305.71,recorded_abaqus2021

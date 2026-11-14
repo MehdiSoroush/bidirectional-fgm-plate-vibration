@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bidirectional-fgm-plate-vibration"
+version = "0.1.0"
+description = "Linear Ritz and Abaqus modal benchmarks for bidirectionally graded plates"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.24", "scipy>=1.10", "matplotlib>=3.7"]
+authors = [{name = "Mehdi Soroush"}]
+keywords = ["mechanics", "functionally graded materials", "rayleigh-ritz", "finite elements", "vibration"]
+
+[project.optional-dependencies]
+test = ["pytest>=7.4"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

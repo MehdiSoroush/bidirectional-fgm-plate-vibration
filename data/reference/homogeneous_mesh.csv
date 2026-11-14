@@ -1,0 +1,4 @@
+mesh_n,elements,bending_mode_number,frequency_hz,source_type
+20,400,2,578.76,recorded_abaqus2021
+40,1600,2,576.98,recorded_abaqus2021
+80,6400,2,576.50,recorded_abaqus2021
